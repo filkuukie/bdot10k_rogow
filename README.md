@@ -4,5 +4,5 @@ Projekt zaliczeniowy na studiach mający za zadanie stworzenie mapy obiektów to
 
 Aby uruchomić projekt należy pobrać to repozytorium, rozpakować archiwum i uruchomić plik: projekt.mxd (ArcMap) lub projekt.mpk (ArcMap/QGIS) 
 
-Szybki podgląd:
+"Szybki" screenshot:
 ![podgląd z qgis](preview.jpg)

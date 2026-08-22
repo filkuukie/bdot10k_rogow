@@ -6,3 +6,6 @@ Aby uruchomić projekt należy pobrać to repozytorium, rozpakować archiwum i u
 
 "Szybki" screenshot:
 ![podgląd z qgis](preview.jpg)
+
+# Jak uruchomić projekt?
+Aby uruchomić projekt należy pobrać to repozytorium, rozpakować archiwum i uruchomić plik: projekt.mxd (ArcMap) lub projekt.mpk (ArcMap/QGIS).
